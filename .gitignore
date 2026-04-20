@@ -1,0 +1,9 @@
+# Entornos y secretos
+.envClasificador
+
+# Versiones
+.python-version
+
+# carpetas especificas
+modelos-entrenados/
+prediccion-imagenes/
