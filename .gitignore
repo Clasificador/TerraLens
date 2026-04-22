@@ -1,5 +1,6 @@
 # Entornos y secretos
 ._envClasificador
+._rembg
 
 # Versiones
 .python-version
@@ -7,4 +8,7 @@
 # carpetas especificas
 modelos-entrenados/
 prediccion-imagenes/
-dataset-residuos
+dataset-residuos/
+fotos-sin-fondo/
+
+sin_fondo.ipynb
