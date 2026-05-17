@@ -1,9 +1,9 @@
-# 🌍 TerraLens: Inteligencia Artificial para un Futuro Sostenible ♻️🤖
+# 🌍 TerraLens: Inteligencia Artificial para un Futuro Sostenible
 
 **TerraLens** es una herramienta de visión computacional diseñada para cerrar la brecha entre la tecnología y el reciclaje efectivo. Mediante el uso de redes neuronales convolucionales, el sistema es capaz de analizar materiales y categorizarlos instantáneamente.
 
 
-## 🚀 Características Técnicas
+## Características Técnicas
 
 * **Arquitectura:** Basada en ResNet50 para una extracción de características robusta.
 
@@ -11,18 +11,27 @@
 
 * **Optimización de Datos:** Pipeline de preprocesamiento que incluye normalización, redimensionado automático a 224x224 y técnicas de Data Augmentation para combatir el sesgo de datos.
 
+### **Imágenes del prototipo**
+
+![Vista 1](ensamblaje_protipo/Imagenes/Toma5.png)
+
+![Vista 2](ensamblaje_protipo/Imagenes/Toma2.png)
+
+
+### **Demostración**
+
+![demo](ensamblaje_protipo/Videos/EnsamblajeTotal.gif)
 
 
 ## 🛠️ Stack Tecnológico
 
-* **Lenguaje:** Python 🐍
+* **Lenguaje:** Python
 
-* **IA & Deep Learning:** TensorFlow / Keras 🧠
+* **IA & Deep Learning:** TensorFlow / Keras
 
-* **Visión Artificial:** OpenCV 👁️
+* **Visión Artificial:** OpenCV
 
 * **Entorno:** Google Colab / Local.
-
 
 
 ## Autores
